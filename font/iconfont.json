@@ -1,0 +1,128 @@
+{
+  "id": "2064005",
+  "name": "小米",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "184542",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "291238",
+      "name": "15天",
+      "font_class": "15tian",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1141915",
+      "name": "售后服务",
+      "font_class": "shouhoufuwu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1652457",
+      "name": "短信通道保护",
+      "font_class": "xinxi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "4144176",
+      "name": "客服 耳机 人工服务 面性",
+      "font_class": "kefuerjirengongfuwumianxing",
+      "unicode": "e954",
+      "unicode_decimal": 59732
+    },
+    {
+      "icon_id": "4508224",
+      "name": "7天",
+      "font_class": "tian",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5169069",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6222026",
+      "name": "礼物",
+      "font_class": "ArtboardCopy",
+      "unicode": "e9d0",
+      "unicode_decimal": 59856
+    },
+    {
+      "icon_id": "7732540",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "8500327",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8582695",
+      "name": "S搜索",
+      "font_class": "Ssousuo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12634279",
+      "name": "个人中心 - 中",
+      "font_class": "gerenzhongxin-zhong",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14026411",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "14377209",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "15088458",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15308577",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "16859986",
+      "name": "right",
+      "font_class": "htbArrowright02",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
